@@ -4,7 +4,7 @@
 Status: Going to use Firebase rather than GitHub Pages....
 
 Next:
-Hexo Blog/Placeholder (@Morgan)
+~~Hexo Blog/Placeholder (@Morgan)~~  @ https://legalcode-69d91.firebaseapp.com/
 
 
  
